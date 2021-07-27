@@ -1,9 +1,9 @@
-Sugeng Rawuh <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-wave-reverse-gif.gif" height="30">
-- 👋 Hi, I’m @stressfulldev
-- 👀 I’m an altruist and a young code engineer interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Sugeng Rawuh** <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-wave-reverse-gif.gif" height="30">
+
+Hi, I’m Hans Luber, an altruist and a young code engineer, passionate about creative business and sociopreneur, and recently I fell in love to devOps thing. My passion for enterpreneurship lies with growing up ideas and making them come true with a decent technology.
+
+I am also a SDGs ambassador and volunteer. I introduce and promote the SDGs, help young people to learn about SGDs, assists them to get involved in SDGs movement and achieve the SDGs objective.
+
 
 <!---
 stressfulldev/stressfulldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
