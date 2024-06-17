@@ -2,7 +2,7 @@
 
 Hi, I’m Hans Luber, an altruist and a young code engineer, passionate about creative business and sociopreneur, and recently I fell in love to devOps thing. My passion for enterpreneurship lies with growing up ideas and making them come true with a decent technology.
 
-I am also a SDGs ambassador and volunteer. I introduce and promote the SDGs, help young people to learn about SGDs, assists them to get involved in SDGs movement and achieve the SDGs objective.
+I am also a SDGs activist and volunteer. I introduce and promote the SDGs, help young people to learn about SGDs, assists them to get involved in SDGs movement and achieve the SDGs objective.
 
 <p align="center"> <img src="https://github.com/stressfulldev/stressfulldev/blob/main/stressfuldev%20-%20logo02.gif" alt="animated" /> </p>
 <!---
